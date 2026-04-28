@@ -140,7 +140,7 @@ export default function App() {
       </div>
 
       <div className="max-w-4xl mx-auto p-6 rounded-2xl bg-gray-900/70 border border-gray-800">
-        <h1 className="text-xl font-bold mb-4">Shikoyat yuborish</h1>
+        <h1 className="text-xl font-bold mb-4">Shikoyat yuborish </h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <input
